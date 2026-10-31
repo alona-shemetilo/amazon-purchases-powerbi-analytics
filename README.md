@@ -98,7 +98,7 @@ W pliku znajduje się również ukryta strona techniczna `Data Validation`, wyko
 
 - **Raport interaktywny (Power BI):** [LINK DO UZUPEŁNIENIA PO PUBLIKACJI]
 - **Plik PBIX:** `report/Alona_Shemetilo_Amazon_Purchases_Analytics.pbix` — do dodania po sprawdzeniu rozmiaru i zawartości pliku.
-- **Dokumentacja techniczna (PDF):** `documentation/Dokumentacja_techniczna.pdf` — do dodania.
+- **Dokumentacja techniczna (PDF):** [Pobierz dokumentację techniczną](documentation/Dokumentacja_techniczna.pdf).
 
 ## Źródło danych i ograniczenia
 
