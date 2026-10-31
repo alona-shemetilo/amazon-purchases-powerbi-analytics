@@ -72,7 +72,20 @@ W pliku znajduje się również ukryta strona techniczna `Data Validation`, wyko
 
 ## Podgląd raportu
 
-*Zrzuty ekranu zostaną dodane do repozytorium przed jego publikacją.*
+### Strona główna (LP)
+![Strona główna raportu Amazon Purchases Analytics](images/home.png)
+
+### Purchase Overview
+![Purchase Overview](images/purchase-overview.png)
+
+### Category Analysis
+![Category Analysis](images/category-analysis.png)
+
+### Product Analysis
+![Product Analysis](images/product-analysis.png)
+
+### Conclusions
+![Conclusions](images/conclusions.png)
 
 <!-- Po dodaniu obrazów można odkomentować poniższe odnośniki:
 ![Purchase Overview](images/purchase-overview.png)
