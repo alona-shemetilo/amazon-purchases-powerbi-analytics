@@ -4,7 +4,7 @@
 **Autorka:** Alona Shemetilo  
 **Narzędzia:** Power BI Desktop · Power Query · DAX · Modelowanie danych
 
-> **Status:** raport przygotowany; publikacja interaktywnej wersji i repozytorium — w planie. Linki zostaną uzupełnione po publikacji.
+> **Status:** projekt opublikowany. Interaktywny raport Power BI, plik PBIX oraz dokumentacja techniczna są dostępne publicznie.
 
 ## O projekcie
 
@@ -96,8 +96,8 @@ W pliku znajduje się również ukryta strona techniczna `Data Validation`, wyko
 
 ## Materiały projektu
 
-- **Raport interaktywny (Power BI):** [LINK DO UZUPEŁNIENIA PO PUBLIKACJI]
-- **Plik PBIX:** `report/Alona_Shemetilo_Amazon_Purchases_Analytics.pbix` — do dodania po sprawdzeniu rozmiaru i zawartości pliku.
+- **Raport interaktywny (Power BI):** [Otwórz raport interaktywny](https://app.powerbi.com/view?r=eyJrIjoiMzE0NTVlY2YtOGE2OC00N2UyLTg5NTQtM2QyNmJlMDM4ZTJiIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYi1iNjcwLTAxYzgyNGEwOWUxOSJ9)
+- **Plik PBIX:** [Pobierz plik Power BI (.pbix)](https://github.com/alona-shemetilo/amazon-purchases-powerbi-analytics/releases/download/v1.0/Alona_Shemetilo_Amazon_Purchases_Analytics.pbix).
 - **Dokumentacja techniczna (PDF):** [Pobierz dokumentację techniczną](documentation/Dokumentacja_techniczna.pdf).
 
 ## Źródło danych i ograniczenia
