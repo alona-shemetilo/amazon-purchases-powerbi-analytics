@@ -96,7 +96,7 @@ W pliku znajduje się również ukryta strona techniczna `Data Validation`, wyko
 
 ## Materiały projektu
 
-- **Raport interaktywny (Power BI):** [Otwórz raport interaktywny](https://app.powerbi.com/view?r=eyJrIjoiMzE0NTVlY2YtOGE2OC00N2UyLTg5NTQtM2QyNmJlMDM4ZTJiIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYi1iNjcwLTAxYzgyNGEwOWUxOSJ9)
+- **Raport interaktywny (Power BI):** [Otwórz raport interaktywny](https://app.powerbi.com/view?r=eyJrIjoiMzE0NTVlY2YtOGE2OC00N2UyLTg5NTQtM2QyNmJlMDA4ZTJiIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9)
 - **Plik PBIX:** [Pobierz plik Power BI (.pbix)](https://github.com/alona-shemetilo/amazon-purchases-powerbi-analytics/releases/download/v1.0/Alona_Shemetilo_Amazon_Purchases_Analytics.pbix).
 - **Dokumentacja techniczna (PDF):** [Pobierz dokumentację techniczną](documentation/Dokumentacja_techniczna.pdf).
 
